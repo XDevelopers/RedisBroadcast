@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisBroadcast.App", "RedisBroadcast.App\RedisBroadcast.App.csproj", "{08240FC6-BA6F-48FC-8E5D-4A99F37EBEB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NegocieCoins.Redis.Crud", "NegocieCoins.Redis.Crud\NegocieCoins.Redis.Crud.csproj", "{6010D909-1DBF-4DB5-A77C-D430FAF7E548}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NegocieCoins.Redis.Lib", "NegocieCoins.Redis.Lib\NegocieCoins.Redis.Lib.csproj", "{4924BA2A-DE3F-4CEF-B058-0738F07B8142}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08240FC6-BA6F-48FC-8E5D-4A99F37EBEB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08240FC6-BA6F-48FC-8E5D-4A99F37EBEB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08240FC6-BA6F-48FC-8E5D-4A99F37EBEB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08240FC6-BA6F-48FC-8E5D-4A99F37EBEB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6010D909-1DBF-4DB5-A77C-D430FAF7E548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6010D909-1DBF-4DB5-A77C-D430FAF7E548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6010D909-1DBF-4DB5-A77C-D430FAF7E548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6010D909-1DBF-4DB5-A77C-D430FAF7E548}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4924BA2A-DE3F-4CEF-B058-0738F07B8142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4924BA2A-DE3F-4CEF-B058-0738F07B8142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4924BA2A-DE3F-4CEF-B058-0738F07B8142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4924BA2A-DE3F-4CEF-B058-0738F07B8142}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2D78AE2-D604-4D42-BF90-47D07CF9A227}
+	EndGlobalSection
+EndGlobal
